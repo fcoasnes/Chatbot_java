@@ -1,0 +1,10 @@
+Bonjour et bienvenue dans le système de chat créé par Florian COASNES & Anas AHOUZI. Pour faire appel à un chatbot il suffit d'écrire @<nom_du_chatbot>
+Les chatbots disponibles sont les suivants:
+	-@hello: il vous salue.
+	-@time: il vous l'heure et la date.
+	-@icndb <x>: il vous donne x Chuck Norris fact.
+	-@quiz <x>: il vous pose x questions.
+	-@meteo <ville>: il vous donne la météo actuelle dans la ville souhaitée.
+	-@help: il vous redonne la liste des chatbots.
+	
+Pour quitter le chatbot veuillez inscrire ++.
